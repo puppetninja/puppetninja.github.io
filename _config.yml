@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Chao's Chashitsu
-description:      'A corner for probably not-so-technical whispers in my mind'
+description:      'Ichi-go ichi-e 一期一会'
 url:              https://puppetninja.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -32,3 +32,6 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+disqus:
+  shortname: puppetninja
